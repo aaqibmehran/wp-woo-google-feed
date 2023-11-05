@@ -1,0 +1,13 @@
+{
+    "name": "aaqibmehran/woocommerce-product-excel-importer",
+    "description": "Fetches WooCommerce products and imports them with metadata and creates an Excel file in the project base.",
+    "authors": [
+        {
+            "name": "Aaqib Mehran",
+            "email": "mehran.aaqib@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.29"
+    }
+}
